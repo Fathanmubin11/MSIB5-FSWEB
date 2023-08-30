@@ -2,3 +2,9 @@ Rincian Materi FS WEB - MSIB 5
 1. Desain Grafis
 2. CSS
 3. GIT/GITHUB
+4. MySQL
+5. Framework CI
+6. Laravel
+7. REST API
+8. Softskill
+9. React, Angular
