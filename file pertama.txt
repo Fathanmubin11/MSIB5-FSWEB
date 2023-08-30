@@ -3,7 +3,7 @@ Rincian Materi FS WEB - MSIB 5
 2. UIUX
 3. GIT/GITHUB
 4. MySQL
-5. PHP
+5. Framework CI
 6. Laravel
 7. REST API
 8. Softskill
