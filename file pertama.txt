@@ -6,3 +6,5 @@ Rincian Materi FS WEB - MSIB 5
 5. PHP
 6. Laravel
 7. REST API
+8. Softskill
+9. React, Angular
